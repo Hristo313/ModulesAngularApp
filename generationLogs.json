@@ -1,0 +1,640 @@
+[
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'b137488b-05a3-4c37-92ed-2d0f979dedc3', view id 'bcc80162-d884-4555-95a8-19278067fd1f'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "b137488b-05a3-4c37-92ed-2d0f979dedc3",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8151381Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '593d0b7f-105f-42b9-8c6f-7b9eafc8a994', view id 'bcc80162-d884-4555-95a8-19278067fd1f'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "593d0b7f-105f-42b9-8c6f-7b9eafc8a994",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8348025Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'd7aa5334-abd0-40b0-a8d8-eb54bfef03a4', view id 'bcc80162-d884-4555-95a8-19278067fd1f'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "d7aa5334-abd0-40b0-a8d8-eb54bfef03a4",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.84244Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '595f6bdd-49c7-4754-8a2a-c3c7dfc2f7ba', view id 'bcc80162-d884-4555-95a8-19278067fd1f'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "595f6bdd-49c7-4754-8a2a-c3c7dfc2f7ba",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8454755Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'b010010a-f73c-4458-89cf-84a3a5341113', view id 'bcc80162-d884-4555-95a8-19278067fd1f'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "b010010a-f73c-4458-89cf-84a3a5341113",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8496137Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'cd27e8cf-e42a-4e8d-98b2-2d6f3af8fcd1', view id '2f5cabbf-8fb9-4336-8b23-eb59946de9b7'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "cd27e8cf-e42a-4e8d-98b2-2d6f3af8fcd1",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8567198Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '786b4580-db75-4219-b328-1763d90bce11', view id '2f5cabbf-8fb9-4336-8b23-eb59946de9b7'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "786b4580-db75-4219-b328-1763d90bce11",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8575852Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '62e8e06b-9e5f-46dd-94cd-959676945790', view id '2f5cabbf-8fb9-4336-8b23-eb59946de9b7'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "62e8e06b-9e5f-46dd-94cd-959676945790",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8579865Z"
+  },
+  {
+    "Message": "Component '' with id '2ac60092-b907-4d70-aaf2-00fe7df20f19' has property 'perPage' of type 'number' which is not in the correct format.",
+    "Level": "Warning",
+    "Reason": "TypeError",
+    "Category": "General",
+    "Context": {
+      "ComponentId": "2ac60092-b907-4d70-aaf2-00fe7df20f19",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8682772Z"
+  },
+  {
+    "Message": "Component '' with id '2ac60092-b907-4d70-aaf2-00fe7df20f19' has property 'totalRecords' of type 'number' which is not in the correct format.",
+    "Level": "Warning",
+    "Reason": "TypeError",
+    "Category": "General",
+    "Context": {
+      "ComponentId": "2ac60092-b907-4d70-aaf2-00fe7df20f19",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8682999Z"
+  },
+  {
+    "Message": "Component '' with id '2ac60092-b907-4d70-aaf2-00fe7df20f19' has property 'page' of type 'number' which is not in the correct format.",
+    "Level": "Warning",
+    "Reason": "TypeError",
+    "Category": "General",
+    "Context": {
+      "ComponentId": "2ac60092-b907-4d70-aaf2-00fe7df20f19",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8683022Z"
+  },
+  {
+    "Message": "Component with id '3f97e240-3cb4-4c4b-9b87-925ae0f13153' is a form component that has no model. Component is not generated as form.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "3f97e240-3cb4-4c4b-9b87-925ae0f13153",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.8804515Z"
+  },
+  {
+    "Message": "Component with id '6d1df879-9ab1-4c0d-bd5f-c5f9de2d7fd6' is a form component that has no model. Component is not generated as form.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "6d1df879-9ab1-4c0d-bd5f-c5f9de2d7fd6",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9178526Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '2ac6085e-a824-48ea-9f0e-02b39bbd4c2e', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "2ac6085e-a824-48ea-9f0e-02b39bbd4c2e",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9205506Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '8cf2a249-ed18-41d4-a7ab-dc24b6c2d4ab', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "8cf2a249-ed18-41d4-a7ab-dc24b6c2d4ab",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9365582Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '72d0df66-8bec-444f-b9c6-63f17256f5ad', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "72d0df66-8bec-444f-b9c6-63f17256f5ad",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9372186Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '787ce003-55ce-4b39-b698-b579e169df92', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "787ce003-55ce-4b39-b698-b579e169df92",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9381499Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '381cd9f3-0dd0-4aa3-b4ca-00f3463d342f', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "381cd9f3-0dd0-4aa3-b4ca-00f3463d342f",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9388427Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '376ba262-9abb-492d-9f61-90e88ce3b6e7', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "376ba262-9abb-492d-9f61-90e88ce3b6e7",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9394995Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'fd6a63ce-762e-4ae0-b710-76784c0b9b9f', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "fd6a63ce-762e-4ae0-b710-76784c0b9b9f",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.974628Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '90bf3407-caba-4a14-a15e-928457253851', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "90bf3407-caba-4a14-a15e-928457253851",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9748436Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '9e5dccf3-9824-490e-9d45-702d99f9a31c', view id 'd8b9a403-a778-4ebd-ac84-14312f46ba72'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "9e5dccf3-9824-490e-9d45-702d99f9a31c",
+      "ViewId": "d8b9a403-a778-4ebd-ac84-14312f46ba72"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9750466Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'b1fd8536-554e-4a77-9b73-1947671022a2', view id '339133a2-c22b-4524-a64f-e8e552b13185'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "b1fd8536-554e-4a77-9b73-1947671022a2",
+      "ViewId": "339133a2-c22b-4524-a64f-e8e552b13185"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:20.9838021Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '3878b058-93e6-4b9f-9a0f-81d6ce193556', view id '339133a2-c22b-4524-a64f-e8e552b13185'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "3878b058-93e6-4b9f-9a0f-81d6ce193556",
+      "ViewId": "339133a2-c22b-4524-a64f-e8e552b13185"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:21.0047109Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '05bb1170-a83d-4ad6-b88d-4f6ce0186362', view id 'd534f035-17ab-4743-acf3-1f10adf37df4'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "05bb1170-a83d-4ad6-b88d-4f6ce0186362",
+      "ViewId": "d534f035-17ab-4743-acf3-1f10adf37df4"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:21.0339373Z"
+  },
+  {
+    "Message": "Component with id 'e4a2bba2-e7fd-4579-985c-74d1a43e20c8', has conditional dependency against property 'igxToggleAction' which was not found. Dependency not generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "e4a2bba2-e7fd-4579-985c-74d1a43e20c8",
+      "ViewId": "b0bc93c5-5988-462c-b6c2-7df41346b59f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:23.4636933Z"
+  },
+  {
+    "Message": "Component '' with id 'ca1aec10-bda9-49f1-bbb3-e37f572f8ffa' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "ca1aec10-bda9-49f1-bbb3-e37f572f8ffa",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.3978381Z"
+  },
+  {
+    "Message": "Component '' with id '3921d1ba-1b0d-41a5-b06f-c4a4fe2aab36' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "3921d1ba-1b0d-41a5-b06f-c4a4fe2aab36",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.4029992Z"
+  },
+  {
+    "Message": "Component '' with id '15c90865-662d-4733-9c23-fdf001945eaa' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "15c90865-662d-4733-9c23-fdf001945eaa",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.4076638Z"
+  },
+  {
+    "Message": "Component '' with id 'c0f9950c-cf41-4d43-b5b2-bb8719c7d613' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "c0f9950c-cf41-4d43-b5b2-bb8719c7d613",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.4117532Z"
+  },
+  {
+    "Message": "Component '' with id 'abc50efb-2305-4fc7-90e3-493ebaa33df0' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "abc50efb-2305-4fc7-90e3-493ebaa33df0",
+      "ViewId": "bcc80162-d884-4555-95a8-19278067fd1f"
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.4177604Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.515617Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.5156264Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.5208689Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.5208734Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.8967008Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.8967079Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.9028858Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:04:27.9028912Z"
+  },
+  {
+    "Message": "Missing source context value. Current component id '', view id ''",
+    "Level": "Error",
+    "Reason": "Unspecified",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "a655d45e-1b96-407d-a1f6-9845cccb40d1",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:26.6423979Z"
+  },
+  {
+    "Message": "Missing source context value. Current component id '', view id ''",
+    "Level": "Error",
+    "Reason": "Unspecified",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "a655d45e-1b96-407d-a1f6-9845cccb40d1",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:26.6834965Z"
+  },
+  {
+    "Message": "Missing source context value. Current component id '', view id ''",
+    "Level": "Error",
+    "Reason": "Unspecified",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "a655d45e-1b96-407d-a1f6-9845cccb40d1",
+      "ViewId": "2f5cabbf-8fb9-4336-8b23-eb59946de9b7"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:26.6836031Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:07:26.942224Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:07:26.9422301Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:07:26.9427153Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:07:26.9427176Z"
+  },
+  {
+    "Message": "Component '' with id '702b82fd-288d-4341-b765-c47fc80671b1' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "702b82fd-288d-4341-b765-c47fc80671b1",
+      "ViewId": "339133a2-c22b-4524-a64f-e8e552b13185"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:27.0330456Z"
+  },
+  {
+    "Message": "Component '' with id 'c652d081-994e-4be6-b4e2-487079bd70ce' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "c652d081-994e-4be6-b4e2-487079bd70ce",
+      "ViewId": "339133a2-c22b-4524-a64f-e8e552b13185"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:27.0352188Z"
+  },
+  {
+    "Message": "Component '' with id '2dae1b17-d7d3-42ed-9c37-9825196c9ef0' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "2dae1b17-d7d3-42ed-9c37-9825196c9ef0",
+      "ViewId": "339133a2-c22b-4524-a64f-e8e552b13185"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:27.0373604Z"
+  },
+  {
+    "Message": "Component '' with id 'f198c7b9-447a-4b13-85b0-e2276890f135' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "f198c7b9-447a-4b13-85b0-e2276890f135",
+      "ViewId": "339133a2-c22b-4524-a64f-e8e552b13185"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:27.0395006Z"
+  },
+  {
+    "Message": "Component '' with id '4aba4006-63b0-46ca-849d-d74ecef0b97a' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "4aba4006-63b0-46ca-849d-d74ecef0b97a",
+      "ViewId": "d534f035-17ab-4743-acf3-1f10adf37df4"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:28.2303273Z"
+  },
+  {
+    "Message": "Component '' with id '421b7628-a5f3-4eca-b189-5c80ed87fff1' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "421b7628-a5f3-4eca-b189-5c80ed87fff1",
+      "ViewId": "d534f035-17ab-4743-acf3-1f10adf37df4"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:28.2327547Z"
+  },
+  {
+    "Message": "Component '' with id 'a9b1a93a-0107-4979-82b8-6d5131585c76' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "a9b1a93a-0107-4979-82b8-6d5131585c76",
+      "ViewId": "d534f035-17ab-4743-acf3-1f10adf37df4"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:28.2351895Z"
+  },
+  {
+    "Message": "Component '' with id '65d6fe9d-0e4d-40ca-aa69-37a6068010b5' has no tag, no content and no children. Nothing generated.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": "65d6fe9d-0e4d-40ca-aa69-37a6068010b5",
+      "ViewId": "d534f035-17ab-4743-acf3-1f10adf37df4"
+    },
+    "UTCTimestamp": "2025-09-19T08:07:28.2376114Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:07:28.2453132Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:07:28.2453177Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:07:28.2454396Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-09-19T08:07:28.2454401Z"
+  }
+]
