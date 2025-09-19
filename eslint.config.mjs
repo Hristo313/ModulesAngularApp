@@ -7,7 +7,7 @@ export default [
     files: ['**/*.component.ts'],
     languageOptions: {
       parserOptions: {
-        project: ['tsconfig.eslint.json'],
+        project: ['tsconfig.json'],
         createDefaultProgram: true,
       },
     },
